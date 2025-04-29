@@ -91,6 +91,31 @@ section h3 {
   color: #333;
 }
 
+.activity-card .participants {
+  margin-top: 15px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #e3f2fd;
+}
+
+.activity-card .participants h5 {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #1a237e;
+}
+
+.activity-card .participants ul {
+  padding-left: 20px;
+  list-style-type: circle;
+  color: #333;
+}
+
+.activity-card .participants ul li {
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
